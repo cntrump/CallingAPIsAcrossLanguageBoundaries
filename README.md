@@ -8,4 +8,4 @@ Use a variety of C++ APIs in Swift -- and vice-versa -- across multiple targets 
 
 ## Configure the sample code project
 
-Before you run the sample code project in Xcode, ensure you're using macOS 14.0 or later.
+Before you run the sample code project in Xcode, ensure you're using macOS 13.3 or later.
